@@ -1,0 +1,7 @@
+Summary:
+
+Simulation ran for 254second(s).
+
+A total of 96 vehicles drove through the intersection.
+
+Simulation ended successfully.

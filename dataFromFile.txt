@@ -1,0 +1,2 @@
+Autospawn time: 2
+User controlled: On
